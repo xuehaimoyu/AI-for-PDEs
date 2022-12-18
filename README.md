@@ -7,3 +7,6 @@ Conclude 3 methods:
 3、GCN-FFNN method
 
 Devoted  by group of this classes
+
+Example1：Heat conduction equation
+Example2：String vibration equation
